@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ozera-group.vercel.app/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://ozera-group.vercel.app/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ozera-group.vercel.app/services</loc><changefreq>quarterly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ozera-group.vercel.app/pricing</loc><changefreq>quarterly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ozera-group.vercel.app/request</loc><changefreq>quarterly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ozera-group.vercel.app/website-development</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ozera-group.vercel.app/apps-software</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ozera-group.vercel.app/brand-design</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ozera-group.vercel.app/video-editing</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ozera-group.vercel.app/minecraft-servers</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ozera-group.vercel.app/discord-services</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ozera-group.vercel.app/privacy</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ozera-group.vercel.app/terms</loc><changefreq>quarterly</changefreq><priority>0.6</priority></url>
 </urlset>
